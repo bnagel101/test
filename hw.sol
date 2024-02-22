@@ -3,6 +3,7 @@ pragma solidity ^0.8.20; //the ^ means other versions with minor changes above 0
 
 
 contract Hw3 {
+    //hi
 
     // Address to its list of contacts
     mapping(address => address[]) private contacts;
